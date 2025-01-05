@@ -1,6 +1,4 @@
-# [Project Title]
-
-Omar Ali John Legal Counsel & Advocacy
+# [Omar Ali John Legal Counsel & Advocacy]
 
 This project aims to create a professional and user-friendly online portfolio for [Friend's Name], an experienced attorney specializing in [Friend's Area of Law]. The portfolio will serve as a digital showcase of their legal expertise, experience, and client testimonials.
 
@@ -12,7 +10,7 @@ This project aims to create a professional and user-friendly online portfolio fo
 
 ## Demo
 
-[wibesite demo](https://zippy-swan-9b0623.netlify.app/)
+[wibesite](https://zippy-swan-9b0623.netlify.app/)
 
 ## Usage
 
