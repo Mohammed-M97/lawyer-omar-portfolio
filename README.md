@@ -1,24 +1,35 @@
-# [Omar Ali John Legal Counsel & Advocacy]
+# Lawyer Omar Ali John — Legal Counsel & Advocacy
 
-This project aims to create a professional and user-friendly online portfolio for [Friend's Name], an experienced attorney specializing in [Friend's Area of Law]. The portfolio will serve as a digital showcase of their legal expertise, experience, and client testimonials.
+A responsive website for a practicing lawyer in Saudi Arabia, built as a client project. It presents the law firm, its services (litigation, pleading, and legal consultations for companies and individuals), and a contact form for new inquiries.
 
-## Features
+**Live site:** https://zippy-swan-9b0623.netlify.app/
 
-* React
-* Bootstrap
-* Sass
+## Tech Stack
 
-## Demo
+- React
+- Bootstrap
+- Sass
 
-[wibesite](https://zippy-swan-9b0623.netlify.app/)
+## Sections
 
-## Usage
+- **Header and About:** introduces the lawyer and the firm's background
+- **Services:** the firm's practice areas
+- **Contact:** contact details and an inquiry form
 
-![pic1](./src/assets/images/projectPic1.JPG)
-![pic2](./src/assets/images/projectPic2.JPG)
-![pic3](./src/assets/images/projectPic01.JPG)
-![pic4](./src/assets/images/projectPic02.JPG)
+## Screenshots
 
-## Author(s) (Optional)
+![Screenshot 1](./src/assets/images/projectPic1.JPG)
+![Screenshot 2](./src/assets/images/projectPic2.JPG)
+![Screenshot 3](./src/assets/images/projectPic01.JPG)
+![Screenshot 4](./src/assets/images/projectPic02.JPG)
 
-* [Mohammed Khaled] ([Mohammed-M97](https://github.com/Mohammed-M97))
+## Run Locally
+
+```bash
+npm install
+npm start
+```
+
+## Author
+
+Mohammed Alawlaqi — [GitHub](https://github.com/Mohammed-M97) · [Portfolio](https://mohammed-alawlaqi.com/)
